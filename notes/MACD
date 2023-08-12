@@ -1,0 +1,7 @@
+Moving Average Convergence Divergence
+
+- a trend calculated using average of no. of days. preferrably 12 for fast moving avg. and 26 for slow moving avg.
+ 
+- a signal line is then calculated on moving avg line on period = 9.
+
+- if macd line cuts signal line from below -> bullish period. else bearish period.
